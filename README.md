@@ -2,6 +2,7 @@
 [![Release](https://img.shields.io/github/v/release/spinzar/version?label=release)](https://github.com/spinzar/version/releases)
 ![Downloads](https://img.shields.io/github/downloads/spinzar/version/total?label=downloads)
 [![Tests](https://img.shields.io/github/workflow/status/spinzar/version/Tests?label=tests)](https://github.com/spinzar/version/actions)
+[![StyleCI](https://github.styleci.io/repos/309356898/shield?branch=main)](https://github.styleci.io/repos/309356898?branch=main)
 [![License](https://img.shields.io/github/license/spinzar/version?label=license)](LICENSE.txt)
 
 
